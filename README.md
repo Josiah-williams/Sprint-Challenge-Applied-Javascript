@@ -42,8 +42,7 @@ An event listener listen's to specific events that occur to specific elements an
 
 4. Why would we convert a NodeList into an Array?
 
-We would convert a nodelist into an array when need methods that a NodeList does not provide, but an Array does,then we can convert it to an Array to 
-unlock more of those methods.
+We would convert a nodelist into an array when  we need methods that a NodeList does not provide, but an Array does,then we can convert it to an Array to unlock more of those methods.
 
 5. What is a component?
 
