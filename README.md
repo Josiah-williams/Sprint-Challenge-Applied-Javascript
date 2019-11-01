@@ -47,7 +47,7 @@ unlock more of those methods.
 
 5. What is a component?
 
-Component is a set combination of three parts, HTML, CSS, and JavaScript that work together to create reusable and modular building block to modern applications.
+Component are a set combination of three parts, HTML, CSS, and JavaScript that work together to create reusable and modular building block to modern applications.
 
 ### Git Set up
 
